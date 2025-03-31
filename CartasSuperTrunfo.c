@@ -2,6 +2,7 @@
 
 int main() {
     printf("Super Trunfo!\n");
+    printf("comit\n");
 
 
 
