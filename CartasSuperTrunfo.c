@@ -17,7 +17,7 @@ int main() {
     printf("Nome da Cidade: %s\n" ,nomedacidade);
     printf("Populaçao: %.6f\n" ,populacao);
     printf("Área: %.3f\n", area);
-    printf("PIB: %.3f\n", pib);
+    printf("PIB: %.3f Reais\n", pib);
     printf("Número de Pontos Turisticos: %d\n", numerodepontosturisticos);
 
     return 0;
